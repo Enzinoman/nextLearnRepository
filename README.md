@@ -1,0 +1,2 @@
+# nextLearnRepository
+to learn NextJS
